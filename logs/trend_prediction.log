@@ -1,0 +1,12 @@
+SVR(C=1.0, cache_size=5000, coef0=0.0, degree=3, epsilon=0.1, gamma='auto',
+  kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=True)
+mean squared error: 0.025024983277 
+r2 score: 0.932726208154 
+SVR(C=1.0, cache_size=5000, coef0=0.0, degree=3, epsilon=0.1, gamma='auto',
+  kernel='linear', max_iter=-1, shrinking=True, tol=0.001, verbose=True)
+mean squared error: 0.0261864544104 
+r2 score: 0.92808082073 
+SVR(C=1.0, cache_size=5000, coef0=0.0, degree=3, epsilon=0.1, gamma='auto',
+  kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)
+mean squared error: 0.0250716424493 
+r2 score: 0.936524132625 
